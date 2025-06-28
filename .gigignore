@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.sqlite3
+
+# Django
+db.sqlite3
+
+# Node
+mnemos-frontend/node_modules/
+npm-debug.log
+
+# Mac
+.DS_Store
