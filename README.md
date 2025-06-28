@@ -20,17 +20,6 @@
 
 ---
 
-## 📂 Project Structure
-
-mnemos/
-├── mnemos_project/ # Django backend
-├── mnemos-frontend/ # React frontend
-├── venv/ # Python virtual environment (not versioned)
-└── README.md
-
-
----
-
 ## 🛠️ Installation
 
 ### Prerequisites
@@ -62,24 +51,32 @@ cd mnemos/mnemos-frontend
 npm install
 npm start
 ```
-🔒 Security
+---
+
+## 🔒 Security
 
 For now, the API requires you to be authenticated through the Django Admin interface.
 Token-based authentication is planned soon.
 
-🌱 Vision
+---
+
+## 🌱 Vision
 
 Mnemos is more than an app:
 
 It is a living platform that helps advance the science of learning.
 
-🤝 Contributions
+---
+
+## 🤝 Contributions
 
 This project is open source under the MIT license.
 Contributions are welcome!
 Please open an issue or pull request if you’d like to help improve it.
 
-🧑‍💻 Author
+---
+
+## 🧑‍💻 Author
 
 Antoine Jeannin
 Ordajeannin on GitHub
