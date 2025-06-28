@@ -57,11 +57,11 @@ python manage.py runserver
 ---
 
 ### Frontend
-
+```bash
 cd mnemos/mnemos-frontend
 npm install
 npm start
-
+```
 🔒 Security
 
 For now, the API requires you to be authenticated through the Django Admin interface.
@@ -72,6 +72,7 @@ Token-based authentication is planned soon.
 Mnemos is more than an app:
 
 It is a living platform that helps advance the science of learning.
+
 🤝 Contributions
 
 This project is open source under the MIT license.
