@@ -5,3 +5,4 @@ class FlashcardSerializer(serializers.ModelSerializer):
     class Meta:
         model = Flashcard
         fields = '__all__'
+        read_only_fields = ('author',)
